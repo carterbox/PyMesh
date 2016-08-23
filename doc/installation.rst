@@ -24,12 +24,14 @@ It depends a number of state-of-the-art open source libraries:
 * SciPy_: v0.13 or higher
 * SWIG_: v3.0.5 or higher
 * Eigen_: v3.2 or higher
+* CMake_: v2.8.12 or higher
 
 .. _Python: https://www.python.org
 .. _NumPy: https://www.numpy.org
 .. _SciPy: https://www.scipy.org
 .. _SWIG: http://www.swig.org
 .. _Eigen: http://eigen.tuxfamily.org
+.. _CMake: https://cmake.org/
 
 The following libraries are not required, but highly recommended.  PyMesh
 provides a thin wrapper to these libraries, and without them certain
